@@ -1,0 +1,101 @@
+#Name{
+    margin: 0px auto;
+    padding: 20px;
+    padding-bottom: 0px;
+    color: white;
+    background-color: rgb(40, 40, 80);
+    width : 100%;
+ }
+ #Address{
+    margin: 0px auto;
+    padding: 20px;
+    color: white;
+    background-color: rgb(40, 40, 80);
+    width : 100%;
+ }
+ #Bio{
+    float: left;
+    width: 75%;
+    margin-top: 15px;
+ }
+ #WorkExperienceHeader{
+    float: left;
+    width: 75%;
+    font-size: 25px;
+    margin-top: 10px;
+ }
+ .DatesExperiences{
+    width: 75%;
+    font-size: 18px;
+ }
+ .WorkExperiences{
+    width: 75%;
+    float: left;
+ }
+ .JobTitle{
+    width: 75%;
+    font-size: 25px;
+    margin-bottom: 0px;
+ }
+ #CertificatesHeader{
+    float: left;
+    width: 75%;
+    font-size: 25px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+ }
+ .Certificates{
+    width: 75%;
+    float: left;
+    margin-top: 2px
+ }
+ #AddressHeader{
+    font-size: 20px;
+    padding-bottom: 5px;
+ }
+ #Address2{
+    padding-top: 5px;
+ }
+ .RightSideStuff{
+    float: right;
+    width: 20%;
+    margin: 0px auto;
+    background-color: rgb(222, 220, 220);
+    padding: 1.5%;
+    padding-top: 10px;
+ }
+ #PersonalInfoHeader{
+    font-size: 25px;
+ }
+ #PhoneNumberHeader{
+    font-size: 20px;
+    padding-bottom: 5px;
+ }
+ #PhoneNumber{
+    padding-top: 5px;
+ }
+ #EmailHeader{
+    font-size: 20px;
+    padding-bottom: 5px;
+ }
+ #EmailAddress{
+    padding-top: 5px;
+ }
+ #LinkedinHeader{
+    font-size: 20px;
+    padding-bottom: 5px;
+ }
+ #LinkedinLink{
+    padding-top: 5px;
+ }
+ #SkillsHeader{
+    font-size: 25px;
+    margin-bottom: 0px auto;
+ }
+ #LanguagesHeader{
+    font-size: 25px;
+ }
+ html{
+    background-color: rgb(238, 236, 236);
+ }
+ 
