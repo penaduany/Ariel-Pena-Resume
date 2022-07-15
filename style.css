@@ -47,7 +47,7 @@
  .Certificates{
     width: 75%;
     float: left;
-    margin-top: 2px
+    margin-top: 10px
  }
  #AddressHeader{
     font-size: 20px;
@@ -95,7 +95,19 @@
  #LanguagesHeader{
     font-size: 25px;
  }
- html{
+#White{
+    color: rgb(238, 236, 236);
+ }
+ #white{
+    color: rgb(238, 236, 236);
+ }
+ #wite{
+    color: rgb(238, 236, 236);
+ }
+ #Wite{
+    color: rgb(238, 236, 236);
+ }
+html{
     background-color: rgb(238, 236, 236);
  }
  
